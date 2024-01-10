@@ -6,7 +6,7 @@ authors = ["Johannes Kaisinger <johannes.kaisinger@ginzinger.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.12"
+python = ">=3.10"
 Sphinx = "7.2.6"
 sphinx-rtd-theme = "^2.0.0"
 
